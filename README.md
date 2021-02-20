@@ -1,5 +1,5 @@
 # victorianPlumbing-webscrape
-Scrapes entire victorianplumbing.co.uk website and returns full product catalogue range and attributes, then saves down to a .xlsx file. Includes Dashboard example.
+Scrapes entire victorianplumbing.co.uk website and returns full product catalogue range and attributes, then saves down to a .xlsx file.
 
 !Python3
 
