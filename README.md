@@ -19,3 +19,5 @@ Attributes saved to dictionary:
 - Availability
 - Lead time
 - Number of product images
+
+Dashboard examples surfaced via Power BI
